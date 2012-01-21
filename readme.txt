@@ -4,7 +4,7 @@ Donate link: http://kobowi.co.uk/
 Tags: visual-studio, widgets
 Requires at least: 3.3.0
 Tested up to: 3.3.0
-Stable tag: 0.1
+Stable tag: 0.2
 
 Simple Wordpress widget that shows your Visual Studio Achievements (http://channel9.msdn.com/achievements/visualstudio).
 
@@ -31,6 +31,10 @@ Because this is pretty much the first version. Tell me what you need and I will 
 2. The front end view
 
 == Changelog ==
+
+= 0.2 = 
+
+Added in more options such as main description, show score, show points etc. Also added maximum achievments options as well as icon size.
 
 = 0.1 =
 
