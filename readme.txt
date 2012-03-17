@@ -1,3 +1,10 @@
+Notice: To make this accessible to all WordPress users, this plugin has been migrated to:
+
+	- Project page: http://wordpress.org/extend/plugins/visual-studio-achievements/
+	- SVN: http://plugins.svn.wordpress.org/visual-studio-achievements/
+
+Message me on GitHub or raise tickets here for bugs, and I'll get fixes merged into the version hosted over at WordPress.
+
 === Visual Studio Achievements ===
 Contributors: kobowi
 Donate link: http://kobowi.co.uk/
@@ -31,6 +38,10 @@ Because this is pretty much the first version. Tell me what you need and I will 
 2. The front end view
 
 == Changelog ==
+
+= 1.0 =
+
+First version released in WordPress plugins directory.
 
 = 0.2 = 
 
